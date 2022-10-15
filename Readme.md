@@ -1,2 +1,3 @@
-Simple project for study makefiles
-==================================
+﻿      practice number one . Karamyshev
+
+
